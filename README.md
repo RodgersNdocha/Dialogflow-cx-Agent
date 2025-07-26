@@ -6,5 +6,7 @@ This article is about Building a Hotel booking Chatbot in Dialogflow CX and inte
 Dialogflow CX provides a new way of designing agents, taking a state machine approach to agent design. This gives you clear and explicit control over a conversation, a better end-user experience, and a better development workflow.
 
 For detailed step by step procedure to build this chatbot, Please refer this [Procedure Document](https://docs.google.com/document/d/1BCoAOhx_XcNgKG2qHL3dZ4_cXRL3wqKy0W7lFlbr4FI/edit?usp=sharing)
+
 For agent [Datastore](https://docs.google.com/document/d/1KUcm0L-vHLXW2F1bAuFJl7cm5-eqCJ_bW-_K-YYGXLk/edit?usp=sharing)
+
 Sample Agent Deployed [Link Here](https://docs.google.com/document/d/1KUcm0L-vHLXW2F1bAuFJl7cm5-eqCJ_bW-_K-YYGXLk/edit?usp=sharing)
