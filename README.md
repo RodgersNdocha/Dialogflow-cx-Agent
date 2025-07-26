@@ -9,4 +9,4 @@ For detailed step by step procedure to build this chatbot, Please refer this [Pr
 
 For agent [Datastore](https://docs.google.com/document/d/1KUcm0L-vHLXW2F1bAuFJl7cm5-eqCJ_bW-_K-YYGXLk/edit?usp=sharing)
 
-Sample Agent Deployed [Link Here]([https://docs.google.com/document/d/1KUcm0L-vHLXW2F1bAuFJl7cm5-eqCJ_bW-_K-YYGXLk/edit?usp=sharing](https://app.netlify.com/projects/sage-zuccutto-bc8b8f/overview))
+Sample Agent Deployed [Link Here](https://app.netlify.com/projects/sage-zuccutto-bc8b8f/overview)
